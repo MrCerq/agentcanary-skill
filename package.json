@@ -1,0 +1,14 @@
+{
+  "name": "agentcanary-skill",
+  "version": "2.1.0",
+  "description": "Cross-asset market intelligence API skill for AI agents. 130+ endpoints.",
+  "keywords": ["agent-skill", "market-intelligence", "crypto", "defi", "macro", "trading-signals", "ai-agent"],
+  "repository": "MrCerq/agentcanary-skill",
+  "license": "MIT",
+  "skills": {
+    "agentcanary": {
+      "path": ".",
+      "description": "Cross-asset market intelligence API for AI agents"
+    }
+  }
+}
