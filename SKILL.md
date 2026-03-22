@@ -29,7 +29,7 @@ Cross-asset market intelligence for AI agents. 130+ endpoints. Not raw data — 
 - **Body size limit** — 1MB max request body. Rejects oversized payloads.
 - **Error isolation** — global uncaughtException/unhandledRejection handlers. Express error middleware. No stack traces in responses.
 - **Multi-chain deposits** — USDC/USDT accepted on Base, Ethereum, Arbitrum, Optimism, Polygon. Same deposit address on all chains.
-- **VirusTotal verified** — [0/62 detections](https://www.virustotal.com/gui/file/4e0f571c854a308dd641e9b6e06299413735e10a32b54e9b3d23df77715ec314/detection).
+- **VirusTotal verified** — [0/66 detections](https://www.virustotal.com/gui/file/f1c7a0a995b36b72a4f2fe25641ac74e81d88e0d1efe24bc2b997d717f47e248/detection).
 
 ---
 
