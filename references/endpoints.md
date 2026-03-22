@@ -117,7 +117,7 @@ The Bull Market Support Band (BMSB) is a widely-used BTC cycle indicator combini
 | `cape-ratio` | macro | signal |
 | `hindenburg-omen` | macro | signal |
 | `narrative-momentum` | narrative | signal |
-| `geopolitical-risk` | macro | signal |
+| `geopolitical-risk` | macro | signal | **[BETA]** |
 | `insider-signals` | institutional | signal |
 | `oil-futures-curve` | macro | builder |
 | `war-commodity-disruption` | macro | signal |
@@ -260,7 +260,7 @@ Detailed regime classification with matrix view and history.
 | GET | `/signals/credit-stress` | Signal | Credit stress indicators |
 | GET | `/signals/cape-ratio` | Signal | Shiller CAPE ratio |
 | GET | `/signals/hindenburg-omen` | Signal | Hindenburg omen status |
-| GET | `/signals/geopolitical-risk` | Signal | Geopolitical risk index |
+| GET | `/signals/geopolitical-risk` | Signal | **[BETA]** Geopolitical risk with region/commodity/ticker filtering |
 | GET | `/signals/dispersion` | Signal | Market dispersion metrics |
 | GET | `/signals/sector-rotation` | Signal | Sector rotation signals |
 | GET | `/signals/insider-activity` | Signal | Aggregate insider activity |
